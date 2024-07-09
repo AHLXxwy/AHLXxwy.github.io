@@ -34,7 +34,7 @@ I love exploring the unknown.
 <div class='paper-box-text' markdown="1">
 
 
-Visual Analysis of Economic Decision-Making and Wealth Change under Simulated Situations
+**Visual Analysis of Economic Decision-Making and Wealth Change under Simulated Situations**
 
 Liu Yuhua, Shi Qing, Zheng Fengling, **<u>Xie Wanying</u>**, Han Shuhuan, and Zhou Zhiguang
 
@@ -47,9 +47,9 @@ Liu Yuhua, Shi Qing, Zheng Fengling, **<u>Xie Wanying</u>**, Han Shuhuan, and Zh
 <div class='paper-box-text' markdown="1">
 
 
-Visual Analytics of Spatial and Temporal Correlation Features of Rainfall
+**Visual Analytics of Spatial and Temporal Correlation Features of Rainfall**
 
-Zhou Zhiguang，**<u>Xie Wanying</u>**，Zheng Weihua，Chen Yuanyuan
+Zhou Zhiguang，**<u>Xie Wanying</u>**，Zheng Weihua，and Chen Yuanyuan
 
 *Journal of Image and Graphics*, 2021 (Chinese)
 

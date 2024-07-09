@@ -22,7 +22,7 @@ I am a Master student at [Beijing Normal University-Hong Kong Baptist Uiversity 
 
 My research interest includes **Data Visualization** and **Human-Computer Interaction**. During my undergraduate studies, I conducted extensive visualization research under the supervision of my advisors. I published two research papers in the fields of economic behavior and climate.
 
-I love exploring the unknown and expecting uncertainty.
+I love exploring the unknown.
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 I got a *M.A. offer* @ *BNU & HKBU UIC*. Major in *Artificial Intelligence and Digital Media (AIDM)*.
@@ -47,7 +47,7 @@ Liu Yuhua, Shi Qing, Zheng Fengling, **<u>Xie Wanying</u>**, Han Shuhuan, and Zh
 <div class='paper-box-text' markdown="1">
 
 
-Visual analytics of spatial and temporal correlation features of rainfall
+Visual Analytics of Spatial and Temporal Correlation Features of Rainfall
 
 Zhou Zhiguang，**<u>Xie Wanying</u>**，Zheng Weihua，Chen Yuanyuan
 
